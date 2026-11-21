@@ -2,7 +2,7 @@
 
 ## About Me
 
-- BCA AI&DS Student at K.R. Mangalam University, Gurugram (Batch 2026–29)
+- BCA AI&DS Student at K.R. Mangalam University, Gurugram (Batch 2026-2029)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: Full-Stack Development (Track A)
 
@@ -11,12 +11,12 @@
 | Category | Technologies |
 |----------|-----------------------------------------------------|
 | Languages | Python (Beginner), Bash / Shell Scripting |
-| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Tools | Git, GitHub, VS Code, Linux Terminal, curl, Postman |
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
 ## Featured Projects
 
-- [CSE103 Lab — LAB 3](https://github.com/ayushkindo/cse103-lab-LAB3)
+- [CSE103 Lab - LAB 3](https://github.com/ayushkindo/cse103-lab-LAB3)
   Git workflows, API interaction, shell scripting, and Markdown documentation
 
 - [Developer Portfolio](https://github.com/ayushkindo/developer-portfolio)
