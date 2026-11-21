@@ -2,7 +2,7 @@
 
 ## About Me
 
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- BCA AI&DS Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: Full-Stack Development (Track A)
 
